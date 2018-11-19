@@ -4,6 +4,7 @@ function panggilSplice() {
 
   // splice menyisipkan data kedalam array sesuka kita
   kota.splice(2,1,'denpasar')
+  kota.splice(1,1,'solo')
   // 2 berarti no array kedua
   // 0 berarti data tidak dihapus, namun jika diganti
   // 1 berarti data dihapus
